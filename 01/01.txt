@@ -1,0 +1,11 @@
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        16/10/2026     22:03              0 01.ps1
+
+CsName          : LAPTOP-FF0ANMB9
+OsName          : Microsoft Windows 10 Home
+OsBuildNumber   : 19045
+OsLocalDateTime : 16/10/2026 22:03:42
+
+255
+5.1.19041.6456
