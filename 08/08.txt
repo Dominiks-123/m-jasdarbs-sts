@@ -1,0 +1,4 @@
+1.6037 ms
+329.2343 ms
+get-service bija ātrāk, bet tam starpība nav liela nozīme ja dar to vienreiz.
+tomēr ir nozīme ja darīsi to vairākas reizes vai lielākā skriptā.
