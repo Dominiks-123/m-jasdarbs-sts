@@ -1,0 +1,5 @@
+errors:9
+
+Count Name
+----- ----
+    2 DCOM got error "87" attempting to start the service GamingServices with arguments "Unavailable" in order to ru...
