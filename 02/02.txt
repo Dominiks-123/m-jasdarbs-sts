@@ -1,58 +1,12 @@
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
--a----        16/10/2026     22:32              0 02.ps1
-
-ProcessName                : MagnetEngine
-Id                         : 37428
-[math]::Round($_.WS/1MB,1) : 280.1
-
-
-ProcessName                : opera
-Id                         : 272
-[math]::Round($_.WS/1MB,1) : 316.6
-
-
-ProcessName                : steamwebhelper
-Id                         : 31712
-[math]::Round($_.WS/1MB,1) : 324.2
-
-
-ProcessName                : MsMpEng
-Id                         : 17508
-[math]::Round($_.WS/1MB,1) : 347.9
-
-
-ProcessName                : opera
-Id                         : 30772
-[math]::Round($_.WS/1MB,1) : 438.5
-
-
-ProcessName                : Medal
-Id                         : 1100
-[math]::Round($_.WS/1MB,1) : 516.4
-
-
-ProcessName                : Memory Compression
-Id                         : 2228
-[math]::Round($_.WS/1MB,1) : 542.6
-
-
-ProcessName                : opera
-Id                         : 20788
-[math]::Round($_.WS/1MB,1) : 609.6
-
-
-ProcessName                : Discord
-Id                         : 13496
-[math]::Round($_.WS/1MB,1) : 732.9
-
-
-ProcessName                : explorer
-Id                         : 5620
-[math]::Round($_.WS/1MB,1) : 1072.9
-
-
-TypeName   : System.Diagnostics.Process
-Name       : WS
-MemberType : AliasProperty
-Definition : WS = WorkingSet64
+ProcessName           Id [math]::Round($_.WS/1MB,1)
+-----------           -- --------------------------
+MsMpEng            17508                      422.3
+opera              18024                      430.3
+opera              30772                      448.4
+opera               2448                      468.6
+Medal               1100                      518.3
+opera              38568                      524.2
+Memory Compression  2228                      526.4
+opera              20788                      642.2
+Discord            13496                      738.9
+explorer            5620                       1514
