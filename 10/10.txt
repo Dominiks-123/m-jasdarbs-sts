@@ -1,0 +1,9 @@
+249
+300
+9
+106.8
+56.9
+
+tikai pirmais ir citādāks ar 255.
+Manuprāt tas notiek jo es skaitu procesu un es zinu es esmu jau aizvēris ciet
+procesus pirms šī uzdevuma
