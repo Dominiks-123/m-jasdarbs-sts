@@ -1,0 +1,2 @@
+Drive: C: | Size: 475.5 GB | Free space left: 106.8 GB
+Drive: D: | Size: 447.1 GB | Free space left: 56.9 GB
